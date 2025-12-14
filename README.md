@@ -48,4 +48,4 @@ git push -u origin main
 * Навчитися робити merge та resolve conflicts
 * Освоїти pull request
 
-1133
+1144
