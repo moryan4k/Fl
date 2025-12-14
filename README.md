@@ -47,3 +47,5 @@ git push -u origin main
 * Попрактикуватися з гілками (branches)
 * Навчитися робити merge та resolve conflicts
 * Освоїти pull request
+
+11
